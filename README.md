@@ -11,8 +11,8 @@ The project dives deep into the world of cybersecurity and machine learning. It 
 This repository is organized as follows:
 
 - `Suleyman Yahaya CST 4090 Dissertation.pdf`: Contains the written dissertation report, which comprehensively details the project, the methods employed, and the conclusions drawn.
-- `Code`: Houses the code files developed and used in this project.
-- `Data`: This folder contains the data sets utilized for model training and testing.
+- `Suleyman_Yahaya_Final_Code_File.ipynb`: Houses the code files developed and used in this project.
+- `NSL-KDD`: This folder contains the data sets utilized for model training and testing.
 
 ## How to Navigate
 
